@@ -1,2 +1,5 @@
 # hello-world
-my first rep
+
+Hi all
+
+in between project I will try to complet this course for front-end dev.
